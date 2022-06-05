@@ -1,1 +1,3 @@
 Started new work on fıle
+
+Started component 1
